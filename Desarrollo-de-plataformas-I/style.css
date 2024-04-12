@@ -1,0 +1,12 @@
+body{
+    background-color: yellow;
+}
+h1{
+    font-size: 300px;
+    text-align: center;
+    font-weight: bold;
+}
+img{
+    height: 300px;
+    width: 300px;
+}

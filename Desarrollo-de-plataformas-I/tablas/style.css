@@ -1,0 +1,41 @@
+/*  */
+table th {
+    /* para que sea responsiba al tamaño */
+    width: 10em ;
+    /* para que no este tan apiñado, para que no tenga un relleno verticalmente entre los
+    bordes podemos poner un paddiing ..verticalmente hay un borde en */
+    padding: 1em;
+}
+table{
+    /* aplicaremos un borde a todos los estilos ,AVERIGUAR */
+    border-collapse: collapse;
+}
+/* si yo quiero que solo la cabezera este de un colr */
+tr:nth-of-type(1)>th{
+    background-color: orange;
+}
+
+td{
+    font-size: 25px;
+}
+/* Estos son lo seudoselectores en css */
+tr:nth-of-type(2) >th,
+tr:nth-of-type(3) >th,
+tr:nth-of-type(4) >th,
+tr:nth-of-type(5) >th,
+tr:nth-of-type(6) >th,
+tr:nth-of-type(7) >th,
+tr:nth-of-type(8) >th{
+    background-color:greenyellow
+}
+/* 
+para que la celda recreto este en color ... */
+td[colspan]{
+    text-align: center;
+    background-color: beige;
+    font-weight: bold;
+}
+
+.lengua{
+    background-color: cadetblue;
+}

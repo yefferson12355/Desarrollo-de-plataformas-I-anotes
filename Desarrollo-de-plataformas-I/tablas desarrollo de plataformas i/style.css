@@ -1,0 +1,16 @@
+/* Borde para toda la tabla linea noma */
+table{
+    border-collapse: collapse;
+}
+table th{
+    width: 10em;
+    
+}
+#Asistencia{
+    padding:  10px 10px 0px 10px;
+    font-size: 30px;
+    
+}
+body{
+    font-size:12px;
+}

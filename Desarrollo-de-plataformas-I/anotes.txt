@@ -1,0 +1,51 @@
+desarrollo de plataformas 1 
+
+Editores de texto visual studio code sublime text Etc .
+y algunas de paga.
+
+revisar en casa el documental de internet exploret.(Guerra de navegadores)
+El edge es la version mejorada de internet exploret.
+
+Leerlo la historia etc, eso nos diferencia de los tecnicos, esos datos tenemos que me
+morizarlo ,tampoco tan profundo .mm
+
+xml es una base de datos de etiquetas , y el xhmtl es un conjunto de ambos 
+
+los que ya saben es bueno que lo revisen.
+
+La constumbre es que lo guarden dentro de una carpeta 
+
+<p>
+
+
+</p>
+si pones una imagen gigante ,,recomendable que con un editor grafico reducirlo para que no
+consuma .
+
+cmd/borrar y poner eso  code .
+
+loren*100 cuantos parrafos quiero...aleatorio
+control espacio para que te muestre sugerencias 
+
+ul>li*4 
+
+Emmet Docummnet html mas rapido con atajos de met 
+table>thead>tr>th*4 para tablas-
+control mas } tecla guarda un codigo en comentarios
+
+tbody>tr*4>td{cel $}*3  Dentro de los tr estaran los td por 3 dentro de cadad uno 
+
+como juntar estoas dos filas o columnas colspan y rowspan en html para juntar.
+
+
+action  :cuando halla un servidor ahi se pondra la direccrion de ahi -
+
+input:submit
+post para contraseñas ,,,etc 
+metodo head:para puequeños datos ,se almacenan en el cache ,historial
+
+action psot 
+F12  reset hiden 
+
+
+Para el dia miercoles cualquier codigo html a css

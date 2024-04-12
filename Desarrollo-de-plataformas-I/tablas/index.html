@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- por ahora no utilizaremos el reset.css solo el por 
+    defecto  -->
+    <link rel="stylesheet" href="style.css">
+    <title>Tablas practica</title>
+</head>
+    <body>
+        <h1>Ejemplos tablas html + css</h1>
+        <table border="1">
+            <!-- fila -->
+            <tr>
+                <!-- columnas en la fila, cabezera mas resaltada -->
+                <th>Horas</th>
+                <th>Lunes</th>
+                <th>Martes</th>
+                <th>Miercoles</th>
+                <th>Jueves</th>
+                <th>Viernes</th>
+                <th>Sabado</th>           
+            </tr>
+            <tr>
+                <th>9:15 - 9:20</th>
+                <!-- en vez de negrita con letra normal , -->
+                <td>religion</td>
+                <td>matematicas</td>
+                <td class="lengua">lengua</td>
+                <td>comunicacion</td>
+                <td>matematicas</td>
+                <td>Fisica</td>
+            </tr>
+            <tr>
+                <th>9:15 - 9:20</th>
+                <td>religion</td>
+                <td>matematicas</td>
+                <td class="lengua"> lengua</td>
+                <td>comunicacion</td>
+                <td>matematicas</td>
+                <td>Fisica</td>
+            </tr>
+            <tr>
+                <th>9:15 - 9:20</th>
+                <td>religion</td>
+                <td>matematicas</td>
+                <td class="lengua">lengua</td>
+                <td>comunicacion</td>
+                <td>matematicas</td>
+                <td>Fisica</td>
+            </tr>
+
+            <!-- para combinar -->
+            <tr>
+                <th>12:13 - 12:50</th>
+                <!-- para que ocupe ,numero de columnas que abarque  -->
+                <td colspan="6">RECREO</td>
+            </tr>
+            <tr>
+                <!-- columnas en la fila, cabezera mas resaltada -->
+                <th>Horas</th>
+                <th>Lunes</th>
+                <th>Martes</th>
+                <th>Miercoles</th>
+                <th>Jueves</th>
+                <th>Viernes</th>
+                <th>Sabado</th>           
+            </tr>
+            <tr>
+                <th>9:15 - 9:20</th>
+                <!-- para que abarque en forma verital mas  -->
+                <td rowspan="4">religion</td>
+                <td>matematicas</td>
+                <td class="lengua">lengua</td>
+                <td>comunicacion</td>
+                <td>matematicas</td>
+                <td>Fisica</td>
+            </tr>
+            <tr>
+                <th>9:15 - 9:20</th>
+                <td>religion</td>
+                <td>matematicas</td>
+                <td class="lengua">lengua</td>
+                <td>comunicacion</td>
+                <td>matematicas</td>
+                
+            </tr>
+            <tr>
+                <th>9:15 - 9:20</th>
+                <td>religion</td>
+                <td>matematicas</td>
+                <td class="lengua">lengua</td>
+                <td>comunicacion</td>
+                <td>matematicas</td>
+                
+            </tr>
+        </table>
+    </body>
+</html>
